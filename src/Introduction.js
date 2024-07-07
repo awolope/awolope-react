@@ -20,7 +20,7 @@ export default function Introduction() {
         </a>
       </div>
       <div>
-        <img src="/peculiar.png" className="introimg"></img>
+        <img src="/peculiar.png" className="introimg" alt=""></img>
       </div>
     </div>
   );

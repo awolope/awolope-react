@@ -9,7 +9,7 @@ const Menu = () => {
     <div className="Menu">
       <button onClick={toggleMenu}>
         {" "}
-        <img src="/menu.png" className="menu-bar"></img>{" "}
+        <img src="/menu.png" className="menu-bar" alt=""></img>{" "}
       </button>
 
       {isOpen && (
